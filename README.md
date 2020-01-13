@@ -1,11 +1,9 @@
 # Deep-Attention-Network
-DAN: Deep-Attention Network for 3D Shape Recognition (sigir 2020)
-
-Created by Weizhi Nie, Yue Zhao from Tianjin University.
+DAN: Deep-Attention Network for 3D Shape Recognition
 
 ## _Introduction_
 
-This work will appear in Sigir 2020. We proposed a Deep-Attention neural network called DAN for 3D shape recognition and retrieval. You can check our paper for more details.
+We proposed a Deep-Attention neural network called DAN for 3D shape recognition and retrieval. You can check our paper for more details.
 
 In this repository, our code and data are released for training our DAN on ModelNet40 dataset.
 
